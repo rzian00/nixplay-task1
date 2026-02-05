@@ -6,9 +6,10 @@ Implement an Efficient Kth Largest Element Finder
 # Install dependencies
 npm install --save-dev jest
 
-# Run the app
-node app.js
+# Run start app
+npm start
 
 # Run test using Jest
 npm test
 ```
+
