@@ -8,4 +8,7 @@ npm install --save-dev jest
 
 # Run the app
 node app.js
+
+# Run test using Jest
+npm test
 ```
